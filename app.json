@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/louyour/nginx-Manual",
-  "repository": "https://github.com/louyour/nginx-Manual",
+  "website": "https://github.com/shiduiosuyuty/yuito",
+  "repository": "https://github.com/shiduiosuyuty/yuito",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
